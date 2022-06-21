@@ -1,0 +1,30 @@
+Tela Login
+   Front-End
+   Back-End
+   Database
+
+Menu Gerente
+   Front-End
+
+   Gerenciar Funcionários
+      Front-End
+      Back-End
+      Database
+
+   Ver Clientes
+      Front-End
+
+   Ver Ordens de Serviço
+      Front-End
+
+Menu Recepção
+   Front-End
+
+   Cadastrar Clientes
+      Front-End
+
+   Ver orçamento
+      Front-End
+
+Menu Mecânico
+   Front-End
